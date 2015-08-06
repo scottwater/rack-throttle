@@ -174,6 +174,12 @@ To install the latest official release of the gem, do:
 
     % [sudo] gem install rack-throttle
 
+
+Running Specs
+--------------
+    bundle install
+    bundle exec rspec
+
 Authors
 -------
 
