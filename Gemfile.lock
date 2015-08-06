@@ -25,6 +25,7 @@ GEM
       rspec-support (~> 3.3.0)
     rspec-support (3.3.0)
     timecop (0.3.4)
+    yard (0.6.8)
 
 PLATFORMS
   ruby
@@ -34,3 +35,4 @@ DEPENDENCIES
   rack-throttle!
   rspec (= 3.3.0)
   timecop (= 0.3.4)
+  yard (>= 0.5.5)
